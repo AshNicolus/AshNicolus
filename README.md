@@ -1,145 +1,191 @@
-# 👋 Hey, I'm Yash (Ash Nicolus)
+<div align="center">
 
-### AI Systems Engineer • Deep Learning Builder • Agentic AI Developer
+# 👋 Hey, I'm Yash Nema (Ash Nicolus)
 
-Building intelligent systems that bridge Deep Learning, autonomous agents, and real-world deployment.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;Deep+Learning+Builder;Agentic+AI+Developer;Backend+%2B+ML+Infrastructure+Engineer;Building+Intelligent+Systems+That+Ship" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 🧠 Engineering Intelligence
+<div align="center">
+
+### 🧠 Building intelligent systems combining Deep Learning, Agentic AI, and scalable backend engineering.
+
+</div>
+
+---
+
+# ⚡ About Me
+
+- 🧠 AI/ML Engineer focused on **Deep Learning, Agentic Systems, and AI Infrastructure**
+- 🤖 Building production-grade systems using **LangGraph, RAG, FastAPI, and multi-agent architectures**
+- 🩺 Developed healthcare AI systems for **embedded medical inference**
+- ⚙️ Strong interest in **systems programming, backend engineering, Linux, and AI deployment**
+- 🚀 Passionate about solving real-world problems using scalable AI systems
+
+---
+
+# 🧬 Currently Engineering
 
 ### 🩺 Neonatal Jaundice Detection System
-CNN-powered healthcare intelligence system designed for embedded deployment using Raspberry Pi and Computer Vision for early-stage jaundice prediction.
+CNN-powered healthcare intelligence system deployed on embedded environments using Raspberry Pi for non-invasive jaundice prediction.
 
-### 🤖 Agentic Research & Reasoning System
-Multi-agent AI architecture using LangGraph + LangChain with autonomous retrieval, reasoning pipelines, and structured answer generation.
+### 🤖 QueryCrafter — Agentic Research System
+Multi-agent research architecture using LangGraph + LangChain for autonomous retrieval, reasoning, and answer synthesis across large-scale knowledge sources.
 
-### 📄 RAG PDF Intelligence Platform
-FastAPI-powered document intelligence engine supporting semantic retrieval, contextual reasoning, and scalable PDF understanding workflows.
+### 📄 Adaptive RAG Platform
+FastAPI-powered Retrieval-Augmented Generation system supporting semantic retrieval, dynamic context orchestration, and scalable document intelligence.
+
+### 🧩 Jutsu Executer
+Custom Unix-style shell integrating LLM-based command generation with process execution and safety validation.
 
 ### 📦 AI Inventory Optimization Framework
-Retail-focused multi-agent system for demand forecasting, inventory tracking, and dynamic pricing optimization.
-
-### 🧩 Lox + AI Runtime Experiments
-Exploring programming language interpreters integrated with LangChain and Retrieval-Augmented Generation systems.
+Retail-focused AI system for demand forecasting, inventory monitoring, and intelligent pricing optimization.
 
 ---
 
-# ⚡ Core Domains
+# 🛠️ Tech Arsenal
 
-- Deep Learning
-- Agentic AI Systems
-- Retrieval-Augmented Generation (RAG)
-- Computer Vision
-- Backend Systems Engineering
-- Embedded AI Deployment
-- AI Infrastructure & Automation
+<div align="center">
 
----
-
-# 🛠️ The Stack
-
-### Languages
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
 ![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
-
-### AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch)
-![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-111111?style=for-the-badge)
-![CNNs](https://img.shields.io/badge/CNNs-111111?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-111111?style=for-the-badge)
-
-### Backend & Infrastructure
 ![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django)
+![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow)
+![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-111111?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
+![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-111111?style=for-the-badge&logo=microsoftazure)
+![GCP](https://img.shields.io/badge/GCP-111111?style=for-the-badge&logo=googlecloud)
+
+</div>
 
 ---
 
 # 🏆 Proof of Work
 
 ### 🥇 National Hackathon Winner
-Developed and deployed a Feed Forward Neural Network on resource-constrained ESP32 hardware for real-time embedded AI inference under device limitations.
+Built and deployed a Feed Forward Neural Network on resource-constrained embedded hardware for real-time fault detection with sub-100ms inference latency. :contentReference[oaicite:0]{index=0}
 
-### 🥇 IDT Hackathon Winner
-Built and deployed a CNN-based neonatal jaundice detection system for medical image analysis and embedded inference.
+### 🥇 Innovation Design Thinking Hackathon Winner
+Developed a CNN-based neonatal jaundice detection system achieving 92% classification accuracy across 500+ medical samples. :contentReference[oaicite:1]{index=1}
 
-### 🥉 Buzz Box Hardware Hackathon
-Engineered an Arduino + API-powered elephant deterrence system addressing wildlife-human conflict scenarios.
+### 🥉 Hardware Hackathon Finalist
+Built an Arduino-based automation system integrating sensors and APIs for real-world deployment. :contentReference[oaicite:2]{index=2}
 
-### 🚀 AI Engineering & Research
-Developing production-oriented AI systems involving:
-- Multi-agent orchestration
-- RAG pipelines
-- Embedded deployment
-- Autonomous workflows
-- Deep learning inference systems
+### 🚀 AI/ML + Backend Engineering Experience
+- Built scalable AI infrastructure on Azure, AWS, and GCP
+- Improved processing efficiency by 60%
+- Achieved 99.5% deployment uptime
+- Developed systems serving 5000+ users
+- Built retrieval pipelines indexing 1000+ documents
 
 ### 💻 Competitive Programming
-Actively solving advanced DSA problems focused on:
-- Graphs
-- Dynamic Programming
-- Greedy Algorithms
-- Problem-solving under constraints
+- Codeforces Pupil (1200+)
+- LeetCode Rating: 1624
+- Strong focus on Graphs, DP, Greedy, and systems-level problem solving
 
 ---
 
 # ⚙️ Systems & Philosophy
 
+<div align="center">
+
+```bash
+> build intelligent systems
+> optimize everything
+> automate workflows
+> deploy at scale
+> repeat
+```
+
+</div>
+
 > **Linux Enthusiast • Minimal Builder • Performance-Focused Engineer**
 
-I enjoy designing systems that combine:
+I enjoy building systems that combine:
 - intelligent reasoning
 - scalable backend infrastructure
 - efficient deployment
+- autonomous workflows
 - real-world usability
 
-Focused on building practical AI products instead of isolated prototypes.
+Focused on shipping practical AI systems instead of isolated prototypes.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AshNicolus&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AshNicolus&theme=transparent&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AshNicolus&theme=github-compact&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshNicolus&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎮 Developer Mode
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhxem9jMWYwY2s0eDdxNGMxMnRzN3N6bXUwMmN4cTQ5aXphdnQxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif" width="500"/>
+
+</div>
 
 ---
 
 # 🌱 Currently Exploring
 
 - Advanced Deep Learning
-- LLM Fine-Tuning
 - CUDA Optimization
-- Agentic AI Architectures
-- Open Source Contributions (GSoC 2026)
+- LLM Fine-Tuning
+- Multi-Agent AI Architectures
 - High-Performance AI Inference
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AshNicolus&show_icons=true&theme=transparent&hide_border=true"/>
-  
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AshNicolus&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshNicolus&theme=github-compact&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshNicolus&layout=compact&theme=transparent&hide_border=true"/>
-</p>
+- Open Source Contributions (GSoC 2026)
 
 ---
 
 # 📫 Connect With Me
 
-📧 **Email:** yashnema52@gmail.com  
+<div align="center">
 
-💻 **GitHub:** https://github.com/AshNicolus
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yash-nema)
+
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)](https://github.com/AshNicolus)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/AshNicolus)
+
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail)](mailto:yashnema52@gmail.com)
+
+</div>
 
 ---
 
-# ⚡ Fun Fact
+<div align="center">
 
-> I like pandas 🐼, Linux terminals, and building AI systems that actually ship.
+### ⚡ "Build systems that think. Ship systems that scale."
+
+</div>
