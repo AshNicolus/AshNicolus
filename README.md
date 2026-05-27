@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Yash Nema (Ash Nicolus)
+# 👋 Hey, I'm Ash Nicolus
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;Deep+Learning+Builder;Agentic+AI+Developer;Backend+%2B+ML+Infrastructure+Engineer;Building+Intelligent+Systems+That+Ship" alt="Typing SVG" />
 
