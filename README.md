@@ -1,191 +1,158 @@
 <div align="center">
 
-# 👋 Hey, I'm Ash Nicolus
+<img src="https://media.giphy.com/media/1qErVv5GVUac8uqBJU/giphy.gif" width="100%" height="220" alt="spider-verse banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;Deep+Learning+Builder;Agentic+AI+Developer;Backend+%2B+ML+Infrastructure+Engineer;Building+Intelligent+Systems+That+Ship" alt="Typing SVG" />
+# 🕸️ ASH NICOLUS
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2600&pause=800&color=E62429&center=true&vCenter=true&width=840&lines=YOUR+FRIENDLY+NEIGHBORHOOD+DEV;WITH+GREAT+POWER+COMES+GREAT+CODE;SPINNING+WEBS+%2F%2F+SHIPPING+SYSTEMS;SPIDEY-SENSE+FOR+CLEAN+BACKENDS" alt="Typing SVG" />
 
----
+<img src="https://img.shields.io/badge/MODE-WEB--SLINGER-E62429?style=for-the-badge" alt="mode"/>
+<img src="https://komarev.com/ghpvc/?username=AshNicolus&label=PROFILE%20VIEWS&color=E62429&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/AshNicolus?label=FOLLOWERS&style=for-the-badge&color=E62429&logo=github" alt="followers"/>
 
-<div align="center">
-
-### 🧠 Building intelligent systems combining Deep Learning, Agentic AI, and scalable backend engineering.
-
-</div>
-
----
-
-# ⚡ About Me
-
-- 🧠 AI/ML Engineer focused on **Deep Learning, Agentic Systems, and AI Infrastructure**
-- 🤖 Building production-grade systems using **LangGraph, RAG, FastAPI, and multi-agent architectures**
-- 🩺 Developed healthcare AI systems for **embedded medical inference**
-- ⚙️ Strong interest in **systems programming, backend engineering, Linux, and AI deployment**
-- 🚀 Passionate about solving real-world problems using scalable AI systems
-
----
-
-# 🧬 Currently Engineering
-
-### 🩺 Neonatal Jaundice Detection System
-CNN-powered healthcare intelligence system deployed on embedded environments using Raspberry Pi for non-invasive jaundice prediction.
-
-### 🤖 QueryCrafter — Agentic Research System
-Multi-agent research architecture using LangGraph + LangChain for autonomous retrieval, reasoning, and answer synthesis across large-scale knowledge sources.
-
-### 📄 Adaptive RAG Platform
-FastAPI-powered Retrieval-Augmented Generation system supporting semantic retrieval, dynamic context orchestration, and scalable document intelligence.
-
-### 🧩 Jutsu Executer
-Custom Unix-style shell integrating LLM-based command generation with process execution and safety validation.
-
-### 📦 AI Inventory Optimization Framework
-Retail-focused AI system for demand forecasting, inventory monitoring, and intelligent pricing optimization.
-
----
-
-# 🛠️ Tech Arsenal
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
-![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash)
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django)
-![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow)
-![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-111111?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
-![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-111111?style=for-the-badge&logo=microsoftazure)
-![GCP](https://img.shields.io/badge/GCP-111111?style=for-the-badge&logo=googlecloud)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
 
 </div>
 
----
+## ⚡ About Me
 
-# 🏆 Proof of Work
-
-### 🥇 National Hackathon Winner
-Built and deployed a Feed Forward Neural Network on resource-constrained embedded hardware for real-time fault detection with sub-100ms inference latency. :contentReference[oaicite:0]{index=0}
-
-### 🥇 Innovation Design Thinking Hackathon Winner
-Developed a CNN-based neonatal jaundice detection system achieving 92% classification accuracy across 500+ medical samples. :contentReference[oaicite:1]{index=1}
-
-### 🥉 Hardware Hackathon Finalist
-Built an Arduino-based automation system integrating sensors and APIs for real-world deployment. :contentReference[oaicite:2]{index=2}
-
-### 🚀 AI/ML + Backend Engineering Experience
-- Built scalable AI infrastructure on Azure, AWS, and GCP
-- Improved processing efficiency by 60%
-- Achieved 99.5% deployment uptime
-- Developed systems serving 5000+ users
-- Built retrieval pipelines indexing 1000+ documents
-
-### 💻 Competitive Programming
-- Codeforces Pupil (1200+)
-- LeetCode Rating: 1624
-- Strong focus on Graphs, DP, Greedy, and systems-level problem solving
-
----
-
-# ⚙️ Systems & Philosophy
+- 🧠 I build AI agents and the systems that keep them running
+- ⚡ LangGraph, FastAPI, and PyTorch are basically muscle memory
+- 🐧 Linux native. I think in systems, not scripts.
+- 🏆 Hackathon winner, Codeforces Pupil, and a serial shipper of real projects
+- 🚀 My rule is simple: build it, break it, ship it, repeat
 
 <div align="center">
-
-```bash
-> build intelligent systems
-> optimize everything
-> automate workflows
-> deploy at scale
-> repeat
-```
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
 </div>
 
-> **Linux Enthusiast • Minimal Builder • Performance-Focused Engineer**
+## 💼 Where I've Worked
 
-I enjoy building systems that combine:
-- intelligent reasoning
-- scalable backend infrastructure
-- efficient deployment
-- autonomous workflows
-- real-world usability
+| Role | Company | What I shipped |
+|---|---|---|
+| **SDE Intern** *(Jan 2026 to Mar 2026)* | Kinzy | Guided-flow architecture serving 5000+ active users, a personalization engine (20+ categories, 100+ flow paths), and a real-time leaderboard handling 1000+ submissions a day |
+| **AI/ML + Backend Engineer** *(Oct 2025 to Dec 2025)* | Rahtsaa AI | A document extraction pipeline on GCP (1000+ docs a month), backend services that cut processing time by 60%, and LLM-based extraction with automated workflows |
+| **Product Engineer / Data Scientist** *(Jul 2025 to Aug 2025)* | Liquidmind.ai | A multi-modal RAG system on Azure with 99.5% uptime and parallel pipelines that ran 2.5x faster |
 
-Focused on shipping practical AI systems instead of isolated prototypes.
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
+</div>
 
----
+## 🕸️ Projects
 
-# 📊 GitHub Analytics
+### 🧠 [mimir](https://github.com/AshNicolus/mimir)
+Gives autonomous agents a memory. They store what happened, recall it later, and stop repeating the same mistakes. `Python`
+
+### ⚙️ [Kensei](https://github.com/AshNicolus/Kensei)
+An AutoML and MLOps platform that trains, tunes, and ships ML models as FastAPI services from a single command. `Python`
+
+### 🤖 [QueryCrafter](https://github.com/AshNicolus/QueryCrafter)
+A multi-agent research system on LangGraph and LangChain. It breaks a question into parts, searches across sources, and writes up the answer. `Python`
+
+### 🔎 [VectorVault](https://github.com/AshNicolus/VectorVault)
+A semantic search engine that handles embeddings, caching, FAISS search, a FastAPI backend, and a Streamlit UI. `Python`
+
+### 🧩 [vectorshift-pipeline-builder](https://github.com/AshNicolus/vectorshift-pipeline-builder)
+A drag-and-drop builder for wiring up AI and data workflows in the browser. `JavaScript`
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
+</div>
+
+## 🕷️ Web-Shooters (Tech Stack)
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AshNicolus&show_icons=true&theme=transparent&hide_border=true"/>
+<p><b>Languages</b></p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,bash&perline=4" alt="languages"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AshNicolus&theme=transparent&hide_border=true"/>
+<p><b>AI / ML</b></p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=3" alt="ai-ml"/>
+<img src="https://img.shields.io/badge/LangChain-111111?style=for-the-badge" alt="langchain"/>
+<img src="https://img.shields.io/badge/LangGraph-111111?style=for-the-badge" alt="langgraph"/>
+
+<p><b>Backend & Data</b></p>
+<img src="https://skillicons.dev/icons?i=fastapi,spring,postgres,mongodb,redis&perline=5" alt="backend"/>
+
+<p><b>Cloud & DevOps</b></p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,linux&perline=6" alt="cloud"/>
+
+<p><b>Tools</b></p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,postman&perline=6" alt="tools"/>
 
 </div>
 
 <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AshNicolus&theme=github-compact&hide_border=true"/>
+## 🏆 Hero Log
+
+- 🥇 **National Hackathon Winner**: feedforward NN for real-time fault detection on a microprocessor, 90%+ accuracy at sub-100ms latency
+- 🥇 **1st Prize, Innovation Design Thinking Hackathon**: CNN neonatal jaundice detector, 92% accuracy across 500+ samples
+- 🥉 **3rd Place, Hardware Hackathon**: Arduino sensor and API automation system
+- 🥇 **1st Rank, "DISS THAT DSA" Contest**
+- 💻 **Competitive Programming**: Codeforces Pupil (1200+), LeetCode 1624
+- 📈 **Active across ML, backend, and open source** (live stats below)
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
+</div>
+
+## 💡 Motivation
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="420" alt="coder at night gif"/>
+
+</div>
+
+> 🕸️ **"With great power comes great responsibility."**
+>
+> I care more about whether something works in production than how clever it looks in a notebook. Build it, break it, ship it.
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
+</div>
+
+## 🌱 Currently Leveling Up
+
+CUDA optimization · LLM fine-tuning · multi-agent architectures · high-performance inference · open source
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
+</div>
+
+## 📊 The Numbers
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AshNicolus&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AshNicolus&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshNicolus&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshNicolus&layout=compact&theme=transparent&hide_border=true"/>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
 </div>
 
----
-
-# 🎮 Developer Mode
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhxem9jMWYwY2s0eDdxNGMxMnRzN3N6bXUwMmN4cTQ5aXphdnQxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif" width="500"/>
-
-</div>
-
----
-
-# 🌱 Currently Exploring
-
-- Advanced Deep Learning
-- CUDA Optimization
-- LLM Fine-Tuning
-- Multi-Agent AI Architectures
-- High-Performance AI Inference
-- Open Source Contributions (GSoC 2026)
-
----
-
-# 📫 Connect With Me
+## 📫 Find Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yash-nema)
-
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)](https://github.com/AshNicolus)
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/AshNicolus)
-
 [![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail)](mailto:yashnema52@gmail.com)
 
 </div>
 
----
-
 <div align="center">
 
-### ⚡ "Build systems that think. Ship systems that scale."
+### 🕸️ With great power comes great responsibility. So I ship.
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
 
 </div>
